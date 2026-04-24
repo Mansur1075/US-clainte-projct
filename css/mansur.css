@@ -88,3 +88,18 @@ a{
     padding: 150px 0;
    
 }
+.bennar_1 h3{
+     font-family: "Poppins", sans-serif;
+    font-size: 64px;
+    font-weight: bold;
+    color: #fff ;
+
+}
+.bennar_1 a{
+   font-family: "Poppins", sans-serif;
+    padding: 10px 15px 10px 15px;
+    background-color: #F40404;
+    font-size: 18px;
+    border: none;
+    color: #fff;
+}

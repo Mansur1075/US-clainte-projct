@@ -103,3 +103,24 @@ a{
     border: none;
     color: #fff;
 }
+#text_1{
+    padding: 100px;
+    
+}
+.text_all{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.text_2 h3{
+    font-family: "Poppins", sans-serif;
+    font-size: 48px;
+    font-weight: bold;
+    color: #000;
+}
+.text_3 p{
+ font-size: 16px;
+ font-weight: 400;
+ color: #6C6C6C;
+ align-items: center;
+}

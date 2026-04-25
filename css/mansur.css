@@ -223,6 +223,10 @@ font-family: "Poppins", sans-serif;
     display: flex;
 }
 /* red part start */
+#red_404{
+    background-color: #F0F0F0;
+    padding: 40px 0;
+}
 .red_1 {
     display: flex;
 }
@@ -236,3 +240,52 @@ font-family: "Poppins", sans-serif;
     margin: 0px;
     
 }
+/* logo part :start */
+.logo_all{
+    padding-top: 30px;
+    display: flex;
+}
+/* lorem part start */
+#lorem_all{
+    background-color: #6c6c6c29;
+    padding: 60px 0;
+}
+.lorem_1{
+    display: flex;
+    gap: 40px;
+    margin: auto;
+}
+.lorem_2{
+    position: relative;
+}
+.overly_1{
+    position: absolute;
+    background-color: #00000071;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    margin: 0;
+}
+.overly_1 h4{
+    font-family: "Poppins", sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    color: #fff;
+    padding: 40px;
+    padding-top: 90px;
+    margin: 0;
+}
+.overly_1 a{
+    font-size: 16px;
+    font-weight: 400;
+    color: #F0F0F0;
+    padding: 10px 15px;
+    background-color: #ffffffab;
+    margin-left: 40px;
+}
+.lorem_1 img{
+    width: 100%;
+    display: block;
+}
+/* loction part start */
